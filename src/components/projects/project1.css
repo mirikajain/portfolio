@@ -1,0 +1,9 @@
+div{
+    line-height: 200%;
+    
+}
+#project>h3:hover{
+    text-decoration: underline;
+    color: #ffee10;
+
+}

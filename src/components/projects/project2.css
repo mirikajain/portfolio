@@ -1,0 +1,9 @@
+#project2{
+    margin-bottom:15%;
+}
+
+#project2>h3:hover{
+    text-decoration: underline;
+    color: #ffee10;
+
+}
